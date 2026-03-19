@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Goldstonian Concordance Bible (GCB) — Bible Explained Core"
+message: "If you use this repository, please cite it as a SydTek University curriculum resource."
+type: dataset
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+affiliation: "SydTek University"
+repository-code: "https://github.com/your-org/gcb-bible-explained-core"
+abstract: "Foundational theology course architecture for playlist-based Bible instruction, companion textbook alignment, and curriculum design within the Goldstonian Concordance Bible ecosystem."
+keywords:
+  - Goldstonian Concordance Bible
+  - GCB
+  - SydTek University
+  - SydTek Scholars
+  - Mirror Water Fire Doctrine
+  - Theology Curriculum
+  - YouTube Playlists
+  - MOOC
+license: "TBD"

@@ -1,0 +1,11 @@
+[
+  {
+    "course_code": "OTBK-301",
+    "title": "Genesis Explained",
+    "canonical_group": "Torah",
+    "credits": 3,
+    "playlist_id": "genesis_playlist",
+    "textbook_id": "genesis_textbook",
+    "status": "active"
+  }
+]

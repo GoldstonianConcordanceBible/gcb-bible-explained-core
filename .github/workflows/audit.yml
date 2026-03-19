@@ -1,0 +1,13 @@
+name: GCB Audit
+
+on:
+  push:
+  schedule:
+    - cron: "0 6 * * *"
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Audit
+        run: echo "Run agent validation here"

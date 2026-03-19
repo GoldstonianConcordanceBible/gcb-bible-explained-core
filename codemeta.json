@@ -1,0 +1,21 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Goldstonian Concordance Bible (GCB) — Bible Explained Core",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Justin",
+      "familyName": "Goldston"
+    }
+  ],
+  "keywords": [
+    "Goldstonian Concordance Bible",
+    "SydTek University",
+    "Theology Curriculum",
+    "Playlist-Based Learning",
+    "Mirror Water Fire Doctrine"
+  ],
+  "description": "A foundational playlist-based theology curriculum architecture for Bible Explained, Old Testament Explained, and New Testament Explained.",
+  "license": "TBD"
+}

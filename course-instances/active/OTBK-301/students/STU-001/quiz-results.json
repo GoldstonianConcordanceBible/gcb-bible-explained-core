@@ -1,0 +1,19 @@
+{
+  "student_id": "STU-001",
+  "course_code": "OTBK-301",
+  "term": "Fall 2026",
+  "quiz_results": [
+    {
+      "quiz_id": "Q1",
+      "title": "Genesis Module 1 Quiz",
+      "score": 85,
+      "date_completed": "2026-09-10"
+    },
+    {
+      "quiz_id": "Q2",
+      "title": "Genesis Module 2 Quiz",
+      "score": 90,
+      "date_completed": "2026-09-24"
+    }
+  ]
+}

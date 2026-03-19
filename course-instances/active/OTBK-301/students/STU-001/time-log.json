@@ -1,0 +1,11 @@
+{
+  "student_id": "STU-001",
+  "course_code": "OTBK-301",
+  "term": "Fall 2026",
+  "video_hours": 14,
+  "reading_hours": 18,
+  "assignment_hours": 16,
+  "discussion_hours": 2,
+  "total_hours": 50,
+  "last_updated": "2026-10-05"
+}

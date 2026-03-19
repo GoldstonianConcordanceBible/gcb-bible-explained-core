@@ -1,21 +1,41 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "name": "Goldstonian Concordance Bible (GCB) — Bible Explained Core",
+  "name": "GCB Old Testament Book Courses",
+  "description": "Structured, accreditation-ready course architecture for all Old Testament books within the Goldstonian Concordance Bible (GCB) ecosystem, designed for AI ingestion, YouTube-based instruction, and SydTek University delivery.",
+  "keywords": [
+    "Goldstonian Concordance Bible",
+    "GCB",
+    "Old Testament",
+    "Theology",
+    "Online Learning",
+    "YouTube Courses",
+    "AI Education",
+    "SydTek University",
+    "MOOC",
+    "Biblical Studies"
+  ],
+  "license": "MIT",
+  "version": "1.1.0",
   "author": [
     {
       "@type": "Person",
       "givenName": "Justin",
-      "familyName": "Goldston"
+      "familyName": "Goldston",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "SydTek University"
+      }
     }
   ],
-  "keywords": [
-    "Goldstonian Concordance Bible",
-    "SydTek University",
-    "Theology Curriculum",
-    "Playlist-Based Learning",
-    "Mirror Water Fire Doctrine"
-  ],
-  "description": "A foundational playlist-based theology curriculum architecture for Bible Explained, Old Testament Explained, and New Testament Explained.",
-  "license": "TBD"
+  "publisher": {
+    "@type": "Organization",
+    "name": "G. Rune Publishing"
+  },
+  "programmingLanguage": "Markdown, JSON",
+  "codeRepository": "https://github.com/YOUR_USERNAME/gcb-old-testament-book-courses",
+  "relatedLink": [
+    "https://github.com/YOUR_USERNAME/gcb-canonical-index",
+    "https://github.com/YOUR_USERNAME/sydtek-university"
+  ]
 }

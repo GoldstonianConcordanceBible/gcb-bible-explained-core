@@ -1,0 +1,19 @@
+{
+  "student_id": "STU-001",
+  "course_code": "OTBK-301",
+  "term": "Fall 2026",
+  "assignments": [
+    {
+      "assignment_id": "A1",
+      "title": "Creation Narrative Reflection",
+      "status": "completed",
+      "grade": "A-"
+    },
+    {
+      "assignment_id": "A2",
+      "title": "Genesis Patriarchal Covenant Analysis",
+      "status": "pending",
+      "grade": ""
+    }
+  ]
+}

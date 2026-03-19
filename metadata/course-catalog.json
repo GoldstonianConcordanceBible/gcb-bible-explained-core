@@ -1,0 +1,30 @@
+{
+  "program": "GCB Theology Core",
+  "institution": "SydTek University",
+  "courses": [
+    {
+      "course_code": "BIBL 101",
+      "title": "The Bible Explained: Structure, Story, and Divine Narrative",
+      "level": "undergraduate",
+      "format": ["playlist-based", "online", "MOOC-supported"],
+      "textbook": "The Bible Explained: The Complete Narrative of God's Word",
+      "status": "active-foundation"
+    },
+    {
+      "course_code": "BIBL 201",
+      "title": "The Old Testament Explained: Law, Covenant, and Prophecy",
+      "level": "undergraduate",
+      "format": ["playlist-based", "online", "MOOC-supported"],
+      "textbook": "The Old Testament Explained: Covenant, Law, and the Rise of a Nation",
+      "status": "active-foundation"
+    },
+    {
+      "course_code": "BIBL 202",
+      "title": "The New Testament Explained: Christ, Church, and Eternal Kingdom",
+      "level": "undergraduate",
+      "format": ["playlist-based", "online", "MOOC-supported"],
+      "textbook": "The New Testament Explained: Christ, Redemption, and the Kingdom of God",
+      "status": "active-foundation"
+    }
+  ]
+}

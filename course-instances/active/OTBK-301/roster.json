@@ -1,0 +1,12 @@
+{
+  "course_code": "OTBK-301",
+  "term": "Fall 2026",
+  "students": [
+    {
+      "student_id": "STU-001",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "status": "active"
+    }
+  ]
+}

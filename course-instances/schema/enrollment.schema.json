@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Enrollment Schema",
+  "type": "object",
+  "required": [
+    "student_id",
+    "course_code",
+    "term",
+    "enrollment_date",
+    "status"
+  ],
+  "properties": {
+    "student_id": {
+      "type": "string"
+    },
+    "course_code": {
+      "type": "string"
+    },
+    "term": {
+      "type": "string"
+    },
+    "enrollment_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "completed", "withdrawn", "inactive"]
+    },
+    "delivery_mode": {
+      "type": "string",
+      "enum": ["youtube", "hybrid", "portal", "independent-study"]
+    }
+  }
+}

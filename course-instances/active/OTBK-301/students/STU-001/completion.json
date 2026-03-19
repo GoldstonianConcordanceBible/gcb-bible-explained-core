@@ -1,0 +1,9 @@
+{
+  "student_id": "STU-001",
+  "course_code": "OTBK-301",
+  "term": "Fall 2026",
+  "completion_date": "2026-12-10",
+  "final_grade": "A",
+  "credits_earned": 3,
+  "completion_status": "passed"
+}
